@@ -1,7 +1,7 @@
 /* User-defined Package */
 /* package abhi;  // for running the code, type "javac -d . A.java" and write "java abhi.A " in the next step"
 
- public class A 
+public class A 
 {
     protected void show()
     {
