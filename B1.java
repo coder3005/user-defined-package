@@ -1,5 +1,5 @@
 /* User-defined Package */
-package abhi;
+package abhi;   // for running the code, type "javac -d . A.java" and write "java abhi.A " in the next step"
 
 class A 
 {
