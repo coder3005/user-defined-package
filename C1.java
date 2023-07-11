@@ -8,7 +8,7 @@ public class A
         System.out.println("Learn Coding..!");
     }
 } */
-package ankush;
+package ankush;   // first of all u have to make above package for this
 import abhi.A;
 class C 
 {
