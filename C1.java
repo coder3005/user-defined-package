@@ -10,7 +10,7 @@ public class A
 } */
 package ankush;   // first of all u have to make above package for this
 import abhi.A;
-class C 
+class C    // for running the code, type "javac -d . A.java" and write "javac -d. C.java" in the next step and write "java ankush.C " in the next step"
 {
     public static void main(String[] args) {
      
